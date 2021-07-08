@@ -1,0 +1,4 @@
+baseURL = "https://lalago.pages.dev"
+languageCode = "en-us"
+title = "lalago"
+theme = "tale"
